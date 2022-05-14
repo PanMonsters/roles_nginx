@@ -1,5 +1,5 @@
 ---
-# nginx
+# Install Nginx
 - name: NGINX | Install eper-release
   become: true
   ansible.builtin.yum:
