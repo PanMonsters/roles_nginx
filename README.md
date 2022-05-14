@@ -1,1 +1,4 @@
-# roles_nginx
+Role Name
+=========
+
+Тестовый nginx сконфигурированнный для lighthouse
